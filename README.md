@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stevenbudhu
 - 👀 I’m interested in healthcare applications & meaningful data insights that can impact people's well-being
 - 🌱 I’m currently learning Python, Web Development
-- 💞️ I’m looking to collaborate on any open source projects to get my feet wet
+- 💞️ I’m looking to collaborate on any open source projects
 - 📫 How to reach me reach out to sbudhu94@gmail.com
 
 <!---
